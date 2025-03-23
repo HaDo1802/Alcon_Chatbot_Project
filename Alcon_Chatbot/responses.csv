@@ -1,0 +1,8 @@
+Timestamp,Query,Response Time (seconds),Is First Prompt
+2025-03-22 10:59:57.235383,"Please give me the competitive analysis between Alcon with other competitors including COO, BLCO, RXST, GKOS, CZMWF, JNJ, RMD, MDT, AAPL given the data from the past? What do you think about future market position?",10.20,Yes
+2025-03-22 11:02:02.581190,"Can you go more detail and specific, especially in term of future market position of Alcon. Another thing is do you think Apple is their competitor? why you add their data into the analysis",6.91,No
+2025-03-22 11:03:17.214588,"No, I just want to focus on eye care industry, now please give me more detailed - one page long paragraph analysis of competitiveness",3.75,No
+2025-03-22 11:08:31.504757,what day is today,1.60,No
+2025-03-22 11:33:38.276455,hello,0.87,Yes
+2025-03-22 11:33:47.790630,what day is today,0.48,No
+2025-03-22 11:34:33.372064,give me a really comprehensive competitive analysis between Alcon and its competitor within the heathcare industry,6.13,No
